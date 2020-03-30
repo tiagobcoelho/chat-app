@@ -20,7 +20,7 @@ function Contact (props) {
 
 Contact.propTypes = {
     name: PropTypes.string,
-    image: PropTypes.string,
+    avatar: PropTypes.string,
     online:PropTypes.bool,
 }
 
